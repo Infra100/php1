@@ -1,2 +1,2 @@
-*.pem filter=git-crypt diff=git-crypt
+#*.pem filter=git-crypt diff=git-crypt
 #*.php filter=git-crypt diff=git-crypt
